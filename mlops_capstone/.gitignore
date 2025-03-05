@@ -87,3 +87,10 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+mlops_capstone/notebooks/data.csv
+mlops_capstone/notebooks/IMDB.csv
+../YT-Capstone-Project/
+venv
+.env
+
